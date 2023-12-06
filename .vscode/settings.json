@@ -1,0 +1,38 @@
+{
+    "cSpell.words": [
+        "BETSAPI",
+        "bignumber",
+        "bloksports",
+        "boomify",
+        "cognitoidentityserviceprovider",
+        "Datetime",
+        "dockerenv",
+        "expirity",
+        "expressjwt",
+        "jsonb",
+        "JSONODDS",
+        "jwks",
+        "localsonar",
+        "luxon",
+        "middlewares",
+        "Millis",
+        "mkdir",
+        "nestjs",
+        "Organisation",
+        "rabbitmq",
+        "remainingpromotional",
+        "returntocorp",
+        "SAST",
+        "semgrep",
+        "SENDINBLUE",
+        "sonarlint",
+        "tinyint",
+        "typeorm"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.fixAll.eslint": true
+    },
+    "typescript.suggestionActions.enabled": false,
+    "javascript.suggestionActions.enabled": false
+}
